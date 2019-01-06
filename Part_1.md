@@ -6,11 +6,11 @@ March 24, 2017
 Links to all the other parts
 ----------------------------
 
-1.  **<a href="http://rpubs.com/tahamokfi/Part2_AnalyzeTransactionData" target="_blank">Part 2: Network analysis</a>**
-2.  **<a href="http://rpubs.com/Mahsa_A/Part3_AnalyzeTransactionData" target="_blank">Part 3: Association rule mining</a>**
-3.  **<a href="http://rpubs.com/Mahsa_A/Part4_AnalyzeTransactionData" target="_blank">Part 4: Sequential rules mining</a>**
+1.  **<a href="https://github.com/tahamokfi/AnalyzeTransactionData/blob/master/Part_2.md" target="_blank">Part 2: Network analysis</a>**
+2.  **<a href="https://github.com/tahamokfi/AnalyzeTransactionData/blob/master/Part_3.md" target="_blank">Part 3: Association rule mining</a>**
+3.  **<a href="https://github.com/tahamokfi/AnalyzeTransactionData/blob/master/Part_4.md" target="_blank">Part 4: Sequential rules mining</a>**
 
-**You can download the code from <a href="http://goo.gl/mDy1fR" target="_blank">this link</a> and data <a href="http://bit.ly/2VBlzsy" target="_blank">here</a>**
+**You can download the code from <a href="http://bit.ly/2RxMarz" target="_blank">this link</a> and data <a href="http://bit.ly/2VBlzsy" target="_blank">here</a>**
 
 Introduction
 ------------
@@ -276,4 +276,4 @@ ggplot(tb1, aes(Var2,Var1))+geom_point(aes(alpha=row1,size=row1,colour = as.fact
 
 ![](Part_-1_files/figure-markdown_github/unnamed-chunk-12-1.png)
 
-Each color indicates a cluster of countries with similar customers in terms of shopping pattern. This is the final goal of clustering which tries to give an abstract view of a huge dataset using a simple visualization technique. **You can download the code from <a href="http://goo.gl/mDy1fR" target="_blank">this link</a> and data <a href="http://goo.gl/8mjbvz" target="_blank">here</a>**
+Each color indicates a cluster of countries with similar customers in terms of shopping pattern. This is the final goal of clustering which tries to give an abstract view of a huge dataset using a simple visualization technique. **You can download the code from <a href="http://bit.ly/2RxMarz" target="_blank">this link</a> and data <a href="http://bit.ly/2VBlzsy" target="_blank">here</a>**
