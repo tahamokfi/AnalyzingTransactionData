@@ -25,7 +25,7 @@ First Approach: Clustering
 Data description
 ----------------
 
-The data is transaction data of customer invoices from a company. One can assume that this data contains transactions of wind turbine error codes or any other similar cases. You can download the dataset <a href="http://goo.gl/8mjbvz" target="_blank">from here</a>. Data contains 10546 transactions of 392 customers with the following variables:
+The data is transaction data of customer invoices from a company. One can assume that this data contains transactions of wind turbine error codes or any other similar cases. You can download the dataset <a href="http://bit.ly/2VBlzsy" target="_blank">from here</a>. Data contains 10546 transactions of 392 customers with the following variables:
 
 1.  **InvoiceNo:** Contains the Invoice number of customer which is identical for each visit in each date
 2.  **StockCode:** Indicates the product bought by the customer in specific invoice number
